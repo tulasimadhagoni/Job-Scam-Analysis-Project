@@ -48,7 +48,3 @@ It is ideal for Data Analyst, Business Analyst, and EdTech/Operations Analyst ro
 Created By:
 Tulasi Madhagoni
 Data Analyst Aspirant | Python | SQL | Excel | BI Tools
-
-Tulasi, after you commit the new README, send me a picture or just say:
-
-👉 “README updated.”
